@@ -1,7 +1,7 @@
 # hexo-asset-images
 
 
-Give asset image in hexo a absolutely path automatically
+Give asset the local file a absolutely path automatically,Such as pictures, TXT files, PDF and so on.
 
 # Usege
 
